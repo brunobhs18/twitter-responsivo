@@ -1,4 +1,4 @@
-git<h1 align="center"> Twitter Responsivo </h1>
+<h1 align="center"> Twitter Responsivo </h1>
 
 <p align="center">
 Estudo de aplicação com React, cirando interfaces responsivas.
