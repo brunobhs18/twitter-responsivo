@@ -20,7 +20,7 @@ Estudo de aplicação com React, cirando interfaces responsivas.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+- TypeScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Styled-Components](https://styled-components.com/) 
 
