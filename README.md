@@ -30,7 +30,7 @@ O Twitter Responsivo é uma interface que simula o comportamento da página do T
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]()
+Você pode visualizar o layout do projeto através [DESSE LINK](https://twitter-responsivo-sepia.vercel.app/)
 
 ## :memo: Licença
 
