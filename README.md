@@ -1,7 +1,7 @@
 <h1 align="center"> Twitter Responsivo </h1>
 
 <p align="center">
-Estudo de aplicação com React, cirando interfaces responsivas.
+Estudo de aplicação com React, criando interfaces responsivas.
 </p>
 
 <p align="center">
